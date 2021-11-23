@@ -3,7 +3,7 @@
 
 Take ur DJing to the next level: Above the Clouds 
 
-God Is A DJ is a Pure Data patch that imbibes your DJ mixer with godly voices. It is accompanied by the release of six heavenly tracks you can find ont he Girl On Road bandcamp.
+God Is A DJ is a Pure Data patch that imbibes your DJ mixer with godly voices. It is accompanied by the release of six heavenly tracks you can find on the Girl On Road Bandcamp.
 
 .。.：*・゜☆ ｡.:*･ﾟ☆.｡.:*･ﾟﾞ((ε(*っ′∀`)っ† ｡.:*･ﾟ☆.｡.:*･ﾟ ☆*
 .。.：*・゜☆ ｡.:*･ﾟ☆.｡.:*･ﾟﾞ
